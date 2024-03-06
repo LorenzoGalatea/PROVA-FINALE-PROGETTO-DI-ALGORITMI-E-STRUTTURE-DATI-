@@ -14,4 +14,4 @@ The testing platform was divided in public and private tests. Some of the public
 The evaluation parameters are shown in the next image:
 
 
-![61489bec-dfbe-48cf-8c3b-734d2ef23157](https://github.com/LorenzoGalatea/PROVA-FINALE-PROGETTO-DI-ALGORITMI-E-STRUTTURE-DATI-/assets/161478338/d9cdf535-0242-4f2a-9c3d-ebe56aef0225)
+![image](https://github.com/LorenzoGalatea/PROVA-FINALE-PROGETTO-DI-ALGORITMI-E-STRUTTURE-DATI-/assets/161478338/d9cdf535-0242-4f2a-9c3d-ebe56aef0225)
